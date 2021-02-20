@@ -1,0 +1,13 @@
+mode: set
+Myworkspace/ninja13_testing/1/subtract.go:3.29,5.23 2 0
+Myworkspace/ninja13_testing/1/subtract.go:9.2,9.12 1 0
+Myworkspace/ninja13_testing/1/subtract.go:5.23,8.3 1 0
+Myworkspace/ninja13_testing/1/sum.go:5.24,7.23 2 1
+Myworkspace/ninja13_testing/1/sum.go:11.2,11.12 1 1
+Myworkspace/ninja13_testing/1/sum.go:7.23,10.3 1 1
+Myworkspace/ninja13_testing/1/sum.go:14.30,16.23 2 0
+Myworkspace/ninja13_testing/1/sum.go:19.2,20.18 2 0
+Myworkspace/ninja13_testing/1/sum.go:16.23,18.3 1 0
+Myworkspace/ninja13_testing/1/sum.go:23.28,25.23 2 0
+Myworkspace/ninja13_testing/1/sum.go:29.2,30.24 2 0
+Myworkspace/ninja13_testing/1/sum.go:25.23,28.3 1 0
